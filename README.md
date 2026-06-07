@@ -21,4 +21,4 @@ There are other Linux command line mail services that can use SMTP credentials b
 
 Specific software installation instructions are not included in this guide because software package management varies between Linux flavours.  
 
-[Postfix SMTP Proton Mail - Installation, Configuration and Usage Guide](https://github.com/Jim-JMCD/postfix-SMTP_Proton-Mail/blob/main/Postfix-SMTP_Proton-Mail_Guide.pdf)  
+[Postfix SMTP Proton Mail - Installation, Configuration and Usage Guide](https://github.com/Jim-JMCD/postfix-SMTP_Proton-Mail/blob/main/Postfix_SMTP_Proton-Mail_Guide.pdf)  
