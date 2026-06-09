@@ -1,4 +1,6 @@
 ## Guide for installing, configuring and using Linux Postifix with Proton Mail secure SMTP. 
+### Currently being edited and merged with Scaleway documentation
+
 This guide describes how setup up Postfix to work with Proton secure SMTP providing system, security and application administrators use of system utilities that are mail enabled and software like sendmail, postfix, mailx and mutt to send reports, alerts and other material to people that presumably care.
 
 The SMTP service can only send mail using a custom domain registered in a Proton Mail account. If the requirement includes receiving mails use mutt and the Proton Mail Bridge. 
